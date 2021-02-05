@@ -1,0 +1,29 @@
+key, shift = ABCDEFGHIJ, 0
+----------------------------------------------------------------
+Jhii jedj ii idjedded feh aie id jhe iecedd fheghaccidg ceahie.
+Ij cebehi jhe cajehiab id a jhadijiedab CI2 ceahie, ai defided
+be jhe Jeidj ACC/IEEE-CI cecfajidg cahhicaba 2001 hefehj.
+
+key, shift = ZyXwVuTsRqPoNmLkJiHgFeDcBaPyThOn, 1
+----------------------------------------------------------------
+Frqg fubf qg qlfulvuv tkh egu ql fru guwklv jhkshymmqls wkehgu.
+Qf wkduhg fru myfuhqyn ql y fhyvqfqklyn WG2 wkehgu, yg vutqluv
+xa fru Pkqlf YWM/QUUU-WG wkmjefqls wehhqweny 2001 hujkhf.
+
+key, shift = ZYXWVUTSRQPONMLKJIHGFEDCBA, -1
+----------------------------------------------------------------
+Htsi hwdh si snhwnxwx vmj giw sn htw iwymnx ljmujaoosnu ymgjiw.
+Sh ymfwji htw oahwjsap sn a hjaxshsmnap YI2 ymgjiw, ai xwvsnwx
+zc htw Rmsnh AYO/SWWW-YI ymolghsnu ygjjsygpa 2001 jwlmjh.
+
+key, shift = qwertyuiopasdfghjklzxcvbnm, 100
+----------------------------------------------------------------
+Hrtg hqzh tg tphqpmqm waf jgq tp hrq gqnapm sfaefvootpe najfgq.
+Th nakqfg hrq ovhqftvi tp v hfvmthtapvi NG2 najfgq, vg mqwtpqm
+bx hrq Yatph VNO/TQQQ-NG naosjhtpe njfftnjiv 2001 fqsafh.
+
+key, shift = QWERTYUIOPASDFGHJKLZXCVBNM, -100
+----------------------------------------------------------------
+Bsdv bowb dv dkbokioi plc nvo dk bso voulki zclactjjdka ulncvo.
+Db ulmocv bso jtbocdth dk t bctidbdlkth UV2 ulncvo, tv iopdkoi
+ye bso Fldkb TUJ/DOOO-UV uljznbdka unccdunht 2001 cozlcb.
